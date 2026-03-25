@@ -1,5 +1,6 @@
 # Welcome to 'Countless Commuter Conclusions' (CCC)! 
 Mapping London's Many Rail Connections
+Daniel Calland, 2026
  
 ##  Why?
 I've long been interested in how rail and its services are planned, but it was a conversation with a friend about where to live for their upcoming move to London that started this not-so-little-anymore project. They'd secured a job in Moorgate, and with its namesake station, Liverpool Street, Fenchurch Street, Blackfriars, City Thameslink, Farringdon and Cannon Street nearby, I told them this was luckily probably one of the most connected areas in the whole city, and they'd have plenty places to choose from to be easily ferried from house to office each day. 

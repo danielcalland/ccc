@@ -16,7 +16,7 @@ I've looked through the weekday schedules between 6:00 and 9:00 am, and 4:00 and
 ##  What?
 1. [Commuter Options per Terminus](https://danielcalland.github.io/ccc/1_commuter_options_per_terminus/) - click on the nearest terminus station to your work, to be shown all stations with a direct train in under 90 minutes on a map.
 2. [Number of Stations Accessible](https://danielcalland.github.io/ccc/2_number_of_stations_accessible/) - from your suburban station, how many of London's 19 central stations can be reached with a direct train? Click on the dots for further information.
-3. [Time](https://danielcalland.github.io/ccc/3_time/) - a colour graduated map of the fastest time to get from suburban to a central station.
+3. [Time](https://danielcalland.github.io/ccc/3_time/) - a colour graduated map of the fastest route between a suburban station and a central London station.
 4. Return Cost
 5. Average Speed
 6. Cheaper to Oyster or Ticket Machine?

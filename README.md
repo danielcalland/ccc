@@ -19,4 +19,4 @@ I've looked through the weekday schedules between 6:00 and 9:00 am, and 4:00 and
 3. [Time](https://danielcalland.github.io/ccc/3_time/) - the time taken for the fastest route between a suburban station and a central London station during peak hours.
 4. [Return Cost](https://danielcalland.github.io/ccc/4_return_cost) - the peak return cost for travel between 6:00 - 9:00 am and 4:00 - 7:00 pm.
 5. [Average Speed](https://danielcalland.github.io/ccc/5_average_speed) - the point-to-point average speed of the fastest train into London.
-6. Cheaper to Oyster or Ticket Machine?
+6. [Cheaper to Oyster or Ticket Machine?](https://danielcalland.github.io/ccc/6_oyster_or_machine) - visualising whether it's cheaper to tap your oyster card twice, or buy a return ticket from the machine (or an app), with some strange results.
